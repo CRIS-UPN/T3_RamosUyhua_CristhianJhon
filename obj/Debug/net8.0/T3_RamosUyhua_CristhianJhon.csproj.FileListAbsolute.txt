@@ -284,3 +284,4 @@ D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T3_Pregunta1\T3_Ra
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T3_Pregunta1\T3_RamosUyhua_CristhianJhon\T3_RamosUyhua_CristhianJhon\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T3_Pregunta1\T3_RamosUyhua_CristhianJhon\T3_RamosUyhua_CristhianJhon\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T3_Pregunta1\T3_RamosUyhua_CristhianJhon\T3_RamosUyhua_CristhianJhon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T3_Pregunta1\T3_RamosUyhua_CristhianJhon\T3_RamosUyhua_CristhianJhon\obj\Debug\net8.0\T3_RamosUyhua_CristhianJhon.sourcelink.json
