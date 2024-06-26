@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "LibrosArquitecturaSoftware";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html lang="es">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .title {
+            text-align: center;
+            font-size: 50px;
+            margin-top: 20px;
+            color: #FF0000
+        }
+
+        .subtitle {
+            text-align: left;
+            font-size: 36px;
+            margin-top: 10px;
+            color: #0000FF
+        }
+
+        .content-container {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 20px;
+        }
+
+        .image-container {
+            flex: 0 0 auto;
+            margin-right: 20px;
+        }
+
+        .paragraph {
+            text-align: justify;
+            font-size: 30px;
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">
+        Libros de Arquitectura de Software
+    </div>
+
+    <div class="subtitle">
+        Arquitectura de software en la práctica
+    </div>
+    <div class="content-container">
+        <div class="image-container">
+            <img src="~/images/ArquitecturaSoftware1.jpg" alt="Imagen referencial" />
+        </div>
+        <div class="paragraph">
+            En un entorno del mundo real, el libro presenta una vez más los conceptos y las mejores prácticas de la arquitectura de software: cómo se estructura un sistema
+            de software y cómo deben interactuar los elementos de ese sistema. A diferencia de los detalles de implementación, algoritmo y representación de datos,
+            una arquitectura contiene la clave para lograr la calidad del sistema, es un activo reutilizable que se puede aplicar a sistemas posteriores y es crucial
+            para la estrategia comercial de una organización de software.
+        </div>
+    </div>
+
+    <div class="subtitle">
+        Manual del arquitecto de software
+    </div>
+    <div class="content-container">
+        <div class="image-container">
+            <img src="~/images/ArquitecturaSoftware2.jpg" alt="Imagen referencial" />
+        </div>
+        <div class="paragraph">
+            El Manual del arquitecto de software es una guía completa para ayudar a los desarrolladores, arquitectos y programadores senior a avanzar en su carrera en el dominio
+            de la arquitectura de software. Este libro lo lleva a través de todos los conceptos importantes, desde los principios de diseño hasta diferentes consideraciones en las
+            distintas etapas de su carrera en arquitectura de software.
+            El libro comienza cubriendo los fundamentos, los beneficios y el propósito de la arquitectura de software. Descubrirá cómo se relaciona la arquitectura de software con
+            una organización y luego identificará sus atributos de calidad importantes. Una vez que haya cubierto los conceptos básicos, explorará patrones de diseño, mejores
+            prácticas y paradigmas para el desarrollo de software eficiente.
+        </div>
+    </div>
+
+    <div class="subtitle">
+        Patrones de arquitectura de aplicaciones empresariales
+    </div>
+    <div class="content-container">
+        <div class="image-container">
+            <img src="~/images/ArquitecturaSoftware3.jpg" alt="Imagen referencial" />
+        </div>
+        <div class="paragraph">
+            Los desarrolladores de aplicaciones empresariales (por ejemplo, sistemas de reservas, programas de cadena de suministro, sistemas financieros, etc.) enfrentan un conjunto único
+            de desafíos, diferentes a los que enfrentan sus pares de sistemas de escritorio y sistemas integrados. Por este motivo, los desarrolladores empresariales deben descubrir sus propias
+            soluciones. En este nuevo libro, el destacado experto en ingeniería de software Martin Fowler centra su atención en el desarrollo de aplicaciones empresariales. Ayuda a los profesionales
+            a comprender los aspectos complejos, aunque críticos, de la arquitectura. Si bien la arquitectura es importante para todo el desarrollo de aplicaciones, es particularmente crítica para
+            el éxito de un proyecto empresarial, donde cuestiones como el rendimiento y el acceso multiusuario simultáneo son primordiales.
+        </div>
+    </div>
+</body>
+</html>
